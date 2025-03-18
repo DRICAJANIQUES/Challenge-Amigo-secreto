@@ -11,6 +11,5 @@ Prática de lógica de programação através deste desafio de um aplicativo de 
 
 Javascript, HTML, CSS...
 
-## 🕹 Uso/Exemplos
 
-#### Função de embaralhamento de array
+
